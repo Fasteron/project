@@ -7,7 +7,7 @@ body {
     font-family: 'Gilroy';
     background-color: #0B1D26;
     background-size: 100% auto;
-    background-image: url('/assets/img/bg.jpg');
+    background-image: url('assets/img/bg.jpg');
     background-repeat: no-repeat;
     color: #fff;
 }
