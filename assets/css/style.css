@@ -27,6 +27,14 @@ img {
     max-width: 100%;
 }
 
+.img01, .img03 {
+    padding-left: 20px;
+}
+
+.img02 {
+    padding-right: 20px;
+}
+
 .no-scroll {
     overflow-y: hidden;
 }
@@ -34,13 +42,13 @@ img {
 .container-wide {
     max-width: 1790px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 0 80px;
 }
 
 .container {
     max-width: 1492px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 0 100px;
 }
 
 .row {
@@ -50,7 +58,7 @@ img {
 }
 
 .header {
-    padding-bottom: 843px;
+    padding-bottom: 490px;
     padding-top: 64px;
 }
 
