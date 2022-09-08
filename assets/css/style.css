@@ -345,10 +345,14 @@ img {
     line-height: 1.78;
 }
 
+.svgimga {
+    padding-top: 4px;
+}
+
 .article-read-more {
     display: inline-block;
     position: relative;
-    padding-right: 40px;
+    padding-right: 16px;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.222;
